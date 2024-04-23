@@ -1,0 +1,21 @@
+.bola{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 50%;
+    animation: bola 2s ease-in-out;
+}
+
+.bola:hover{
+    cursor: pointer;
+}
+
+#bola1{
+    margin: 10px;
+}
+
+#bola2{
+    margin: 10px;
+}
+
+
