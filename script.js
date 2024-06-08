@@ -122,6 +122,8 @@ $(document).ready(() => {
 
 
     // Chamar a função checkCollision a cada intervalo de tempo
-    setInterval(checkCollision, 20);    
-});
+    setInterval(checkCollision, 20);  
 
+
+
+});
